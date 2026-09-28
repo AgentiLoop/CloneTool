@@ -7,3 +7,8 @@
 
 <img width="674" height="646" alt="image" src="https://github.com/user-attachments/assets/4116a4e6-74fc-4add-8c03-49d4508e694b" />
 
+---
+
+**AgentiLoop:** [agentiloop.ai](https://agentiloop.ai/)
+
+Copyright © 2026 AgentiLoop.ai, a Logos InkPen LLC company. All rights reserved.
