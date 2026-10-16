@@ -1,4 +1,7 @@
 # CloneTool
+
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
 • Built on DD and Gzip via pigz for creating Raspberry Pi Disk Images 
 
 • Implements SMAppService and a launch daemon. No passwords are ever needed to elevated raw disk privileges.
